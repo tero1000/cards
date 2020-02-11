@@ -4,7 +4,7 @@ function connect_db() {
  // EDIT HERE YOUR USERNAME AND PASSWORD
  $username = "bdr280";
  $password = "koDIsO49t";
- $dbname = "cards";
+ $dbname = "bdr280";
  // Create connection
  $conn = new mysqli($servername, $username, $password, $dbname);
  // Check connection
